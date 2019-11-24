@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applozic.communication.message:mobicomkit:5.64@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a2afc635cc932ff47d083a5ed67a1f7/mobicomkit-5.64/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a2afc635cc932ff47d083a5ed67a1f7/mobicomkit-5.64/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.communication.message/mobicomkit/5.64/2f68d6d14e61a28f767b423d1cea5de2cbd13e69/mobicomkit-5.64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.communication.message/mobicomkit/5.64/c10ee191da1e712d9da6db0508d94ca9b85802d2/mobicomkit-5.64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

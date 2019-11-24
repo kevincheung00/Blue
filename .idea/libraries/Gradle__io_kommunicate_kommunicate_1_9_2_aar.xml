@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kommunicate:kommunicate:1.9.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18b473f45c9df74ccdf9647b49ec91ad/kommunicate-1.9.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18b473f45c9df74ccdf9647b49ec91ad/kommunicate-1.9.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate/kommunicate/1.9.2/36dec5c6af48a192195537420aff9cf20af059f9/kommunicate-1.9.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate/kommunicate/1.9.2/34fa964fe428eaccaff23c0872b8a934d23f5ec5/kommunicate-1.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

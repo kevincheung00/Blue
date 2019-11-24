@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401640767936",
+    "firebase_url": "https://hackathonagent-xryjnr.firebaseio.com",
+    "project_id": "hackathonagent-xryjnr",
+    "storage_bucket": "hackathonagent-xryjnr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401640767936:android:a6ed83800aef8177390825",
+        "android_client_info": {
+          "package_name": "com.example.financialassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401640767936-d1s59a5pvsimku52s3dijm01s7buk7h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.financialassistance",
+            "certificate_hash": "57b86846b0c7b9e1b3f666bc9ca85dc08fc4ca34"
+          }
+        },
+        {
+          "client_id": "401640767936-ums4tnqsi6083ij25f55lj1stu70l2ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxS8cr5jgCVLm1tqmet9mVGULYbvO8Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401640767936-ums4tnqsi6083ij25f55lj1stu70l2ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
